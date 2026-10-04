@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bactory: create markets, not just tokens. Modular market infrastructure on Base.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1c"/>
+      <stop offset="1" stop-color="#0d1a3a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c2a4d" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <circle cx="1040" cy="150" r="190" fill="#0052ff" opacity="0.12"/>
+  <circle cx="1040" cy="150" r="120" fill="#0052ff" opacity="0.18"/>
+  <circle cx="1040" cy="150" r="56" fill="#0052ff"/>
+  <path d="M1012 150h56M1040 122v56" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <text x="72" y="118" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1">bactory</text>
+  <text x="72" y="168" fill="#c9d6f5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28">Create markets. Not just tokens.</text>
+  <text x="72" y="226" fill="#7f95c9" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1">CONNECT ASSET  →  BUILD MARKET  →  ACTIVATE MODULES  →  OPERATE</text>
+  <text x="72" y="262" fill="#5b8cff" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="1">BUILT ON BASE</text>
+</svg>
