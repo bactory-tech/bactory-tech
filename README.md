@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.svg" alt="Bactory: create markets, not just tokens" width="100%">
+  <img src="banner.svg" alt="bactory_full_hd_1920x1080.png
+" width="100%">
 </p>
 
 <p align="center">
