@@ -1,5 +1,5 @@
 <p align="center">
-<img src="bactory_full_hd_1920x1080.png" alt="Bactory: create markets, not just tokens" width="100%">
+<img src="bactory.png" alt="Bactory: create markets, not just tokens" width="100%">
 </p>
 
 <p align="center">
